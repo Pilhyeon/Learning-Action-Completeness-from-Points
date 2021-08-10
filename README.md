@@ -1,7 +1,7 @@
 # Learning-Action-Completeness-from-Points
 ### Official Pytorch Implementation of '[Learning Action Completeness from Points for Weakly-supervised Temporal Action Localization](https://github.com/Pilhyeon/Learning-Action-Completeness-from-Points)' (ICCV 2021 Oral)
 
-![architecture](https://user-images.githubusercontent.com/16102333/128477395-5a048558-42b7-4761-aa1e-e5502ffaa896.png)
+![architecture](https://user-images.githubusercontent.com/16102333/128889635-f07218d9-770a-4ece-a384-656e00b2794e.png)
 
 > **Learning Action Completeness from Points for Weakly-supervised Temporal Action Localization**<br>
 > Pilhyeon Lee (Yonsei Univ.), Hyeran Byun (Yonsei Univ.)
