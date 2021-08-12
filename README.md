@@ -1,12 +1,12 @@
 # Learning-Action-Completeness-from-Points
-### Official Pytorch Implementation of '[Learning Action Completeness from Points for Weakly-supervised Temporal Action Localization](https://github.com/Pilhyeon/Learning-Action-Completeness-from-Points)' (ICCV 2021 Oral)
+### Official Pytorch Implementation of '[Learning Action Completeness from Points for Weakly-supervised Temporal Action Localization](https://arxiv.org/abs/2108.05029)' (ICCV 2021 Oral)
 
 ![architecture](https://user-images.githubusercontent.com/16102333/128889635-f07218d9-770a-4ece-a384-656e00b2794e.png)
 
 > **Learning Action Completeness from Points for Weakly-supervised Temporal Action Localization**<br>
 > Pilhyeon Lee (Yonsei Univ.), Hyeran Byun (Yonsei Univ.)
 >
-> Paper: TBA
+> Paper: https://arxiv.org/abs/2108.05029
 >
 > **Abstract:** *We tackle the problem of localizing temporal intervals of actions with only a single frame label for each action instance for training. Owing to label sparsity, existing work fails to learn action completeness, resulting in fragmentary action predictions. In this paper, we propose a novel framework, where dense pseudo-labels are generated to provide completeness guidance for the model. Concretely, we first select pseudo background points to supplement point-level action labels. Then, by taking the points as seeds, we search for the optimal sequence that is likely to contain complete action instances while agreeing with the seeds. To learn completeness from the obtained sequence, we introduce two novel losses that contrast action instances with background ones in terms of action score and feature similarity, respectively. Experimental results demonstrate that our completeness guidance indeed helps the model to locate complete action instances, leading to large performance gains especially under high IoU thresholds. Moreover, we demonstrate the superiority of our method over existing state-of-the-art methods on four benchmarks: THUMOS'14, GTEA, BEOID, and ActivityNet.
 Notably, our method even performs comparably to recent fully-supervised methods, at the 6 times cheaper annotation cost.*
