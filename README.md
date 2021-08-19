@@ -75,7 +75,7 @@ $ bash run.sh
 ~~~~
 
 ### Evaulation
-The pre-trained model can be found [here](https://github.com/Pilhyeon/Learning-Action-Completeness-from-Points).
+The pre-trained model can be found [here](https://drive.google.com/file/d/1xH-dH2UaR7hoYK6MRsc_29mwU0zJCDzU/view?usp=sharing).
 You can evaluate the model by running the command below.
 
 ~~~~
