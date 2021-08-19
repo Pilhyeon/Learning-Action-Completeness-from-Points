@@ -93,7 +93,7 @@ We referenced the repos below for the code.
 * [SF-Net](https://github.com/Flowerfan/SF-Net)
 * [ActivityNet](https://github.com/activitynet/ActivityNet)
 
-In addition, we referenced a part of codes in the repo below for the greedy algorithm implementation.
+In addition, we referenced a part of code in the following repo for the greedy algorithm implementation.
 
 * [NeuralNetwork-Viterbi](https://github.com/alexanderrichard/NeuralNetwork-Viterbi)
 
