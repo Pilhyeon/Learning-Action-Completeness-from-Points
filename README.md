@@ -41,7 +41,7 @@ You can set up the environments by using `$ pip3 install -r requirements.txt`.
        ├── split_test.txt
        ├── fps_dict.json
        ├── point_gaussian
-               └── point_labels.csv
+           └── point_labels.csv
        └── features
            ├── train
                ├── rgb
