@@ -39,6 +39,9 @@ You can set up the environments by using `$ pip3 install -r requirements.txt`.
        ├── gt.json
        ├── split_train.txt
        ├── split_test.txt
+       ├── fps_dict.json
+       ├── point_gaussian
+               └── point_labels.csv
        └── features
            ├── train
                ├── rgb
