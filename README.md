@@ -84,11 +84,15 @@ We note that this repo was built upon our previous models.
 * Background Suppression Network for Weakly-supervised Temporal Action Localization (AAAI 2020) [[paper](https://arxiv.org/abs/1911.09963)] [[code](https://github.com/Pilhyeon/BaSNet-pytorch)]
 * Weakly-supervised Temporal Action Localization by Uncertainty Modeling (AAAI 2021) [[paper](https://arxiv.org/abs/2006.07006)] [[code](https://github.com/Pilhyeon/WTAL-Uncertainty-Modeling)]
 
-We also referenced the repos below for the code.
+We referenced the repos below for the code.
 
 * [STPN](https://github.com/bellos1203/STPN)
 * [SF-Net](https://github.com/Flowerfan/SF-Net)
 * [ActivityNet](https://github.com/activitynet/ActivityNet)
+
+In addition, we referenced a part of codes in the repo below for the greedy algorithm implementation.
+
+* [NeuralNetwork-Viterbi](https://github.com/alexanderrichard/NeuralNetwork-Viterbi)
 
 ## Citation
 If you find this code useful, please cite our paper.
